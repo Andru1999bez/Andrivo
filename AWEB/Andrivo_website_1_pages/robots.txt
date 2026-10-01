@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /catalogs/pages/
+
+Sitemap: https://andrivo.vercel.app/sitemap.xml
